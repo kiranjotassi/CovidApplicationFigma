@@ -1,6 +1,9 @@
 # CovidApplicationFigma
 Figma File and information for Covid Stats Application
 
+Initial Figma Prototype Link: 
+https://www.figma.com/file/vjs6NtL4SEDbrgQuwD78NO/Covid-Application
+
 Figma File Link:
 https://www.figma.com/file/vjs6NtL4SEDbrgQuwD78NO/Covid-Application?node-id=0%3A1
 
